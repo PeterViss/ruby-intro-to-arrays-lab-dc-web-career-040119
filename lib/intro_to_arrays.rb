@@ -9,5 +9,5 @@ end
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of the Woods"]
 
 def my_first_element
-taylor_swift.shift
+taylor_swift[0]
 end
