@@ -37,3 +37,4 @@ def last_element_with_array_methods(last_country)
 def length_of_array(length)
   programming_languages = ["Ruby", "Javascript", "Python", "C++", "Java", "Lisp", "PHP", "Clojure"]
   length = programming_languages.length
+end
