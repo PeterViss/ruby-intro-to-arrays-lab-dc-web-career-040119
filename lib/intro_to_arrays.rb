@@ -8,6 +8,6 @@ end
 
 taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of the Woods"]
 
-def my_first_element
-taylor_swift.index[0]
+def my_first_element(taylor_swift, element)
+taylor_swift.shift
 end
